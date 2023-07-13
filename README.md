@@ -32,4 +32,4 @@ To use npm, execute the following commands:
 
 ## Contributions
 
-Author: [Ahsan Ullah Khan](https://www.linkedin.com/in/author-profile)
+Author: [Ahsan Ullah Khan](https://www.linkedin.com/in/ahsanucp/)
